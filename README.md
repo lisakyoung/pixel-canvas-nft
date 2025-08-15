@@ -28,6 +28,7 @@ Pixel Canvas NFT is a revolutionary collaborative art platform built on Sui bloc
 - **State Management**: React Hooks + Optimistic Updates
 
 ## 📦 Project Structure
+<img width="469" height="439" alt="Screenshot 2025-08-15 at 7 33 26 PM" src="https://github.com/user-attachments/assets/ccab6b25-5c82-47a4-a144-575a7b256007" />
 
 pixel-canvas-nft/
 ├── pixel_canvas/ # Move smart contracts
