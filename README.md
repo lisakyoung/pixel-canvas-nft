@@ -92,7 +92,7 @@ This project is our submission for Blockthon 2025 sponsored by Sui.
 
 ### 👥 Team
 
-Developer: Lisa Kyoung
+Developer: Lisa Kyoung, JunYeong Lee, Jinyeong Mo, Kyunghoon Kim 
 GitHub: @lisakyoung
 
 ### 📄 License
