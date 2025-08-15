@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 
 # 🎨 Pixel Canvas NFT - Collaborative Art Platform on Sui
 
